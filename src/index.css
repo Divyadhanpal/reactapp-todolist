@@ -1,0 +1,9 @@
+body {
+  background: rgb(255, 173, 65);
+  font-family: sans-serif;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
