@@ -6,7 +6,8 @@ $ git clone https://github.com/Divyadhanpal/todo-list-reactapp.git
 
 Install dependencies. Make sure you already have nodejs & npm installed in your system.
 
+2. 
 $ npm install
-Run it
 
+3. 
 $ npm start
